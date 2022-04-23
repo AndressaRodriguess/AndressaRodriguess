@@ -1,7 +1,7 @@
 ### Olá! 👋 Eu sou a Andressa Rodrigues
 
 - 🌱 Estudando atualmente: Vue JS, Python
-- 📫 Contate-me no email: andressa.rodrigues42@etec.sp.gov.br
+- 📫 Contate-me no email: r.andressa268@gmail.com
 
 <div>
   <a href="https://github.com/AndressaRodriguess">
