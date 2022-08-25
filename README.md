@@ -29,8 +29,3 @@
 </div>
 
 ##
-
-<div>
-    <img alt="Quantidade de visitas ao meu perfil" height="25" src="https://img.shields.io/badge/-Quantidade%20de%20visitas%20ao%20meu%20perfil%3A-success" />
-    <img alt="Número de visitas" height="25" width="200" src="https://profile-counter.glitch.me/AndressaRodriguess/count.svg" />
-</div>
